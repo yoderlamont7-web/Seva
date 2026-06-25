@@ -15,8 +15,7 @@
     <path d="M8 22 28 12l20 10-20 10-20-10Z" fill="#fff"/>
     <path d="M8 22v18l20 10V32L8 22Z" fill="#C9B6E8"/>
     <path d="M48 22v18L28 50V32l20-10Z" fill="url(#acc)"/>
-    <path d="M30 9l14-4-4 14-10-10Z" fill="url(#acc)"/>
-  </g>
+    <path d="M30 9l14-4-4 14-10-10Z" fill="url(#acc)"/></g>
   <text x="90" y="320" font-family="'Unbounded',sans-serif" font-size="64" font-weight="800" fill="#FFFFFF">Фулфилмент для</text>
   <text x="90" y="392" font-family="'Unbounded',sans-serif" font-size="64" font-weight="800" fill="#FFFFFF">маркетплейсов</text>
   <text x="90" y="470" font-family="'Manrope',sans-serif" font-size="34" fill="#FFA53C">от приёмки до отгрузки · 2–3 дня</text>

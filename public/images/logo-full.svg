@@ -7,12 +7,10 @@
     </linearGradient>
   </defs>
   <g transform="translate(2,4)">
-  <g transform="scale(1)">
     <path d="M8 22 28 12l20 10-20 10-20-10Z" fill="#fff"/>
     <path d="M8 22v18l20 10V32L8 22Z" fill="#C9B6E8"/>
     <path d="M48 22v18L28 50V32l20-10Z" fill="url(#acc)"/>
-    <path d="M30 9l14-4-4 14-10-10Z" fill="url(#acc)"/>
-  </g></g>
+    <path d="M30 9l14-4-4 14-10-10Z" fill="url(#acc)"/></g>
   <text x="66" y="32" font-family="'Unbounded',sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">Фулфилмент</text>
   <text x="66" y="54" font-family="'Unbounded',sans-serif" font-size="18" font-weight="800" fill="#FFA53C">SELL</text>
 </svg>
