@@ -55,8 +55,8 @@ export default function Hero() {
         {/* Крупное фото склада во всю ширину */}
         <div className="relative mt-10 aspect-[16/10] w-full overflow-hidden rounded-3xl border border-white/10 shadow-card sm:aspect-[16/8] md:aspect-[16/6.5]">
           <Image
-            src="/images/hero-warehouse.svg"
-            alt="Склад фулфилмента «Фулфилмент Sell»: загрузка и отгрузка товара на маркетплейсы"
+            src="/images/photo_2026-05-28_15-14-46.jpg"
+            alt="Склад фулфилмента «Фулфилмент Sell»: паллеты и стеллажи с товаром для маркетплейсов"
             fill
             priority
             sizes="(max-width: 1200px) 100vw, 1200px"
