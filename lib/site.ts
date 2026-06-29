@@ -14,6 +14,14 @@ export const site = {
   vk: 'https://vk.com/club232898007',
   // Email только для отображения в UI. Реальный приём заявок — через env (MAIL_TO).
   email: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'zayavki@fulfillment-sell.ru',
+  // Виджет Яндекс.Карт. По умолчанию ищем по адресу.
+  // Чтобы поставить точную точку — сгенерируйте виджет на https://yandex.ru/map-constructor
+  // и вставьте его src (вида https://yandex.ru/map-widget/v1/...) сюда или в NEXT_PUBLIC_YANDEX_MAP_SRC.
+  yandexMapSrc:
+    process.env.NEXT_PUBLIC_YANDEX_MAP_SRC ||
+    'https://yandex.ru/map-widget/v1/?text=' +
+      encodeURIComponent('Москва, улица Деловая, 11с12') +
+      '&z=16',
 }
 
 export const nav = [

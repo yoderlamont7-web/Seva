@@ -8,6 +8,7 @@ import HowWeWork from '@/components/HowWeWork'
 import Gallery from '@/components/Gallery'
 import Faq from '@/components/Faq'
 import LeadForm from '@/components/LeadForm'
+import MapSection from '@/components/MapSection'
 import Footer from '@/components/Footer'
 import { site } from '@/lib/site'
 import { faq } from '@/lib/content'
@@ -57,6 +58,7 @@ export default function Home() {
         <Gallery />
         <Faq />
         <LeadForm />
+        <MapSection />
       </main>
       <Footer />
     </>
