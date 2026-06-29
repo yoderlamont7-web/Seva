@@ -19,9 +19,7 @@ export const site = {
   // и вставьте его src (вида https://yandex.ru/map-widget/v1/...) сюда или в NEXT_PUBLIC_YANDEX_MAP_SRC.
   yandexMapSrc:
     process.env.NEXT_PUBLIC_YANDEX_MAP_SRC ||
-    'https://yandex.ru/map-widget/v1/?text=' +
-      encodeURIComponent('Москва, улица Деловая, 11с12') +
-      '&z=16',
+    'https://yandex.ru/map-widget/v1/?um=constructor%3A8d7dfc166d6618b56a4150be9733f5d9491e05054177e26bef8a81ac3672295d&source=constructor',
 }
 
 export const nav = [
