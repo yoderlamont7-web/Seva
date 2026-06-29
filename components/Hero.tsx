@@ -61,7 +61,7 @@ export default function Hero() {
         <div className="relative">
           <div className="relative aspect-[4/5] w-full overflow-hidden rounded-3xl border border-white/10 shadow-card sm:aspect-[5/5] lg:aspect-[4/5]">
             <Image
-              src="/images/photo_2026-05-28_15-14-46.jpg"
+              src="/images/photo_2026-05-28_15-14-46-hd.webp"
               alt="Склад фулфилмента «Фулфилмент Sell»: паллеты и стеллажи с товаром для маркетплейсов"
               fill
               priority
